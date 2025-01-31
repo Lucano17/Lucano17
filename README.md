@@ -1,7 +1,6 @@
 <div align="center">
   <div>
     <h3>Hello there! 👋 I'm Lucas de la Fuente</h3>
-    <h4>from Buenos Aires, Argentina <img src="https://cdn-icons-png.freepik.com/512/12361/12361362.png" width="25"></h4>
     <h1><b>Software developer</b> Full-Stack <img src="https://cdn-icons-png.freepik.com/512/1688/1688400.png" width="40"></h1>
   </div>
   <div>
@@ -45,3 +44,6 @@
     </table>
   </div>
 </div>
+
+
+<!--from Buenos Aires, Argentina <img src="https://cdn-icons-png.freepik.com/512/12361/12361362.png" width="25"--!>
