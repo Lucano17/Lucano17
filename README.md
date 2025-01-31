@@ -42,6 +42,15 @@
         </td>
       </tr>
     </table>
+    <!-- DevOps -->
+    <h3>DevOps</h3>
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>MongoDB
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
