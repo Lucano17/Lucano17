@@ -57,6 +57,8 @@
       </tr>
     </table>
   </div>
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucano17&layout=compact&theme=tokyonight" />
 </div>
 
 
