@@ -48,7 +48,7 @@
       </tr>
     </table>
     <!-- DevOps -->
-    <h3>DevOps</h3>
+    <h3>Otras herramientas</h3>
     <table>
       <tr>
         <td align="center">
