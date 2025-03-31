@@ -40,7 +40,22 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
         </td>
         <td align="center">
+          <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40"/><br>C#
+        </td>
+        <td align="center">
+          <img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40"/><br>.NET
+        </td>
+      </tr>
+      </table>
+      <!-- Data Base -->
+    <h3>Data Bases</h3>
+      <table>
+      <tr>
+        <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
+        </td>
+        <td align="center">
+          <img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="40"/><br>Microsoft SQL Server
         </td>
         <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
